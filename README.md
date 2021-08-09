@@ -1,7 +1,7 @@
 # InvoiceQRCodeEncrypter
 
 這程式讀取
-d:\incoice.txt
+D:\incoice.txt
 F1A618ED8685B1A3B81E6CB6884617F4
 PL498214165871     
 
