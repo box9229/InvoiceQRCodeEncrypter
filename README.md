@@ -1,4 +1,8 @@
 # InvoiceQRCodeEncrypter
+version:java sdk 1.8
+
+c:\javac  InvoiceQRCodeEncrypter.java
+c:\java InvoiceQRCodeEncrypter
 
 這程式讀取
 D:\invoice.txt
