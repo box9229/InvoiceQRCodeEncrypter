@@ -1,7 +1,7 @@
 # InvoiceQRCodeEncrypter
-java 1.8  
-jdk-8u281-windows-x64.exe
-jdk-8u301-windows-x64.exe
+java 1.8  ,
+jdk-8u281-windows-x64.exe,
+jdk-8u301-windows-x64.exe,
 jdk-8u321-windows-x64.exe
 
 c:\javac  InvoiceQRCodeEncrypter.java
